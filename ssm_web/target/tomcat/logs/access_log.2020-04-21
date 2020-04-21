@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:02 +0800] "GET /ssm_web/ HTTP/1.1" 302 - http-bio-8888-exec-1 92
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:02 +0800] "GET /ssm_web/login.jsp HTTP/1.1" 200 2562 http-bio-8888-exec-3 85
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:02 +0800] "GET /ssm_web/plugins/adminLTE/img/boxed-bg.jpg HTTP/1.1" 200 123770 http-bio-8888-exec-5 5
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:02 +0800] "GET /ssm_web/plugins/iCheck/square/blue@2x.png HTTP/1.1" 200 4485 http-bio-8888-exec-6 3
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:02 +0800] "GET /ssm_web/blue.png HTTP/1.1" 302 - http-bio-8888-exec-4 10
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:02 +0800] "GET /ssm_web/login.jsp HTTP/1.1" 200 2562 http-bio-8888-exec-8 2
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:02 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-9 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:07 +0800] "POST /ssm_web/login.do HTTP/1.1" 200 12790 http-bio-8888-exec-10 774
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:07 +0800] "GET /ssm_web/plugins/colorpicker/img/hue.png HTTP/1.1" 200 2972 http-bio-8888-exec-3 3
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:07 +0800] "GET /ssm_web/plugins/colorpicker/img/saturation.png HTTP/1.1" 200 8817 http-bio-8888-exec-7 5
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:07 +0800] "GET /ssm_web/plugins/colorpicker/img/alpha-horizontal.png HTTP/1.1" 200 3635 http-bio-8888-exec-4 4
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:07 +0800] "GET /ssm_web/plugins/colorpicker/img/alpha.png HTTP/1.1" 200 3271 http-bio-8888-exec-5 4
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:07 +0800] "GET /ssm_web/plugins/colorpicker/img/hue-horizontal.png HTTP/1.1" 200 2837 http-bio-8888-exec-6 4
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:07 +0800] "GET /ssm_web/plugins/ionslider/img/sprite-skin-nice.png HTTP/1.1" 200 694 http-bio-8888-exec-6 2
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:10 +0800] "GET /ssm_web/permission/findAll.do HTTP/1.1" 200 16165 http-bio-8888-exec-10 158
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:09:37:11 +0800] "GET /ssm_web/permission/blue.png HTTP/1.1" 404 1005 http-bio-8888-exec-10 9
